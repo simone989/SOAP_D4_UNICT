@@ -1,0 +1,225 @@
+Article 81
+
+Union safeguard procedure
+
+1.   Where, within three months of receipt of the notification referred to in Article 79(5), or within 30 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, objections are raised by the market surveillance authority of a Member State to a measure taken by another market surveillance authority, or where the Commission considers the measure to be contrary to Union law, the Commission shall without undue delay enter into consultation with the market surveillance authority of the relevant Member State and the operator or operators, and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall, within six months, or within 60 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, starting from the notification referred to in Article 79(5), decide whether the national measure is justified and shall notify its decision to the market surveillance authority of the Member State concerned. The Commission shall also inform all other market surveillance authorities of its decision.
+
+2.   Where the Commission considers the measure taken by the relevant Member State to be justified, all Member States shall ensure that they take appropriate restrictive measures in respect of the AI system concerned, such as requiring the withdrawal of the AI system from their market without undue delay, and shall inform the Commission accordingly. Where the Commission considers the national measure to be unjustified, the Member State concerned shall withdraw the measure and shall inform the Commission accordingly.
+
+3.   Where the national measure is considered justified and the non-compliance of the AI system is attributed to shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
+
+Article 82
+
+Compliant AI systems which present a risk
+
+1.   Where, having performed an evaluation under Article 79, after consulting the relevant national public authority referred to in Article 77(1), the market surveillance authority of a Member State finds that although a high-risk AI system complies with this Regulation, it nevertheless presents a risk to the health or safety of persons, to fundamental rights, or to other aspects of public interest protection, it shall require the relevant operator to take all appropriate measures to ensure that the AI system concerned, when placed on the market or put into service, no longer presents that risk without undue delay, within a period it may prescribe.
+
+2.   The provider or other relevant operator shall ensure that corrective action is taken in respect of all the AI systems concerned that it has made available on the Union market within the timeline prescribed by the market surveillance authority of the Member State referred to in paragraph 1.
+
+3.   The Member States shall immediately inform the Commission and the other Member States of a finding under paragraph 1. That information shall include all available details, in particular the data necessary for the identification of the AI system concerned, the origin and the supply chain of the AI system, the nature of the risk involved and the nature and duration of the national measures taken.
+
+4.   The Commission shall without undue delay enter into consultation with the Member States concerned and the relevant operators, and shall evaluate the national measures taken. On the basis of the results of that evaluation, the Commission shall decide whether the measure is justified and, where necessary, propose other appropriate measures.
+
+5.   The Commission shall immediately communicate its decision to the Member States concerned and to the relevant operators. It shall also inform the other Member States.
+
+Article 83
+
+Formal non-compliance
+
+1.   Where the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant provider to put an end to the non-compliance concerned, within a period it may prescribe:
+
+(a)
+
+the CE marking has been affixed in violation of Article 48;
+
+(b)
+
+the CE marking has not been affixed;
+
+(c)
+
+the EU declaration of conformity referred to in Article 47 has not been drawn up;
+
+(d)
+
+the EU declaration of conformity referred to in Article 47 has not been drawn up correctly;
+
+(e)
+
+the registration in the EU database referred to in Article 71 has not been carried out;
+
+(f)
+
+where applicable, no authorised representative has been appointed;
+
+(g)
+
+technical documentation is not available.
+
+2.   Where the non-compliance referred to in paragraph 1 persists, the market surveillance authority of the Member State concerned shall take appropriate and proportionate measures to restrict or prohibit the high-risk AI system being made available on the market or to ensure that it is recalled or withdrawn from the market without delay.
+
+Article 84
+
+Union AI testing support structures
+
+1.   The Commission shall designate one or more Union AI testing support structures to perform the tasks listed under Article 21(6) of Regulation (EU) 2019/1020 in the area of AI.
+
+2.   Without prejudice to the tasks referred to in paragraph 1, Union AI testing support structures shall also provide independent technical or scientific advice at the request of the Board, the Commission, or of market surveillance authorities.
+
+SECTION 4
+
+Remedies
+
+Article 85
+
+Right to lodge a complaint with a market surveillance authority
+
+Without prejudice to other administrative or judicial remedies, any natural or legal person having grounds to consider that there has been an infringement of the provisions of this Regulation may submit complaints to the relevant market surveillance authority.
+
+In accordance with Regulation (EU) 2019/1020, such complaints shall be taken into account for the purpose of conducting market surveillance activities, and shall be handled in line with the dedicated procedures established therefor by the market surveillance authorities.
+
+Article 86
+
+Right to explanation of individual decision-making
+
+1.   Any affected person subject to a decision which is taken by the deployer on the basis of the output from a high-risk AI system listed in Annex III, with the exception of systems listed under point 2 thereof, and which produces legal effects or similarly significantly affects that person in a way that they consider to have an adverse impact on their health, safety or fundamental rights shall have the right to obtain from the deployer clear and meaningful explanations of the role of the AI system in the decision-making procedure and the main elements of the decision taken.
+
+2.   Paragraph 1 shall not apply to the use of AI systems for which exceptions from, or restrictions to, the obligation under that paragraph follow from Union or national law in compliance with Union law.
+
+3.   This Article shall apply only to the extent that the right referred to in paragraph 1 is not otherwise provided for under Union law.
+
+Article 87
+
+Reporting of infringements and protection of reporting persons
+
+Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
+
+SECTION 5
+
+Supervision, investigation, enforcement and monitoring in respect of providers of general-purpose AI models
+
+Article 88
+
+Enforcement of the obligations of providers of general-purpose AI models
+
+1.   The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article 94. The Commission shall entrust the implementation of these tasks to the AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
+
+2.   Without prejudice to Article 75(3), market surveillance authorities may request the Commission to exercise the powers laid down in this Section, where that is necessary and proportionate to assist with the fulfilment of their tasks under this Regulation.
+
+Article 89
+
+Monitoring actions
+
+1.   For the purpose of carrying out the tasks assigned to it under this Section, the AI Office may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of general-purpose AI models, including their adherence to approved codes of practice.
+
+2.   Downstream providers shall have the right to lodge a complaint alleging an infringement of this Regulation. A complaint shall be duly reasoned and indicate at least:
+
+(a)
+
+the point of contact of the provider of the general-purpose AI model concerned;
+
+(b)
+
+a description of the relevant facts, the provisions of this Regulation concerned, and the reason why the downstream provider considers that the provider of the general-purpose AI model concerned infringed this Regulation;
+
+(c)
+
+any other information that the downstream provider that sent the request considers relevant, including, where appropriate, information gathered on its own initiative.
+
+Article 90
+
+Alerts of systemic risks by the scientific panel
+
+1.   The scientific panel may provide a qualified alert to the AI Office where it has reason to suspect that:
+
+(a)
+
+a general-purpose AI model poses concrete identifiable risk at Union level; or
+
+(b)
+
+a general-purpose AI model meets the conditions referred to in Article 51.
+
+2.   Upon such qualified alert, the Commission, through the AI Office and after having informed the Board, may exercise the powers laid down in this Section for the purpose of assessing the matter. The AI Office shall inform the Board of any measure according to Articles 91 to 94.
+
+3.   A qualified alert shall be duly reasoned and indicate at least:
+
+(a)
+
+the point of contact of the provider of the general-purpose AI model with systemic risk concerned;
+
+(b)
+
+a description of the relevant facts and the reasons for the alert by the scientific panel;
+
+(c)
+
+any other information that the scientific panel considers to be relevant, including, where appropriate, information gathered on its own initiative.
+
+Article 91
+
+Power to request documentation and information
+
+1.   The Commission may request the provider of the general-purpose AI model concerned to provide the documentation drawn up by the provider in accordance with Articles 53 and 55, or any additional information that is necessary for the purpose of assessing compliance of the provider with this Regulation.
+
+2.   Before sending the request for information, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model.
+
+3.   Upon a duly substantiated request from the scientific panel, the Commission may issue a request for information to a provider of a general-purpose AI model, where the access to information is necessary and proportionate for the fulfilment of the tasks of the scientific panel under Article 68(2).
+
+4.   The request for information shall state the legal basis and the purpose of the request, specify what information is required, set a period within which the information is to be provided, and indicate the fines provided for in Article 101 for supplying incorrect, incomplete or misleading information.
+
+5.   The provider of the general-purpose AI model concerned, or its representative shall supply the information requested. In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall supply the information requested on behalf of the provider of the general-purpose AI model concerned. Lawyers duly authorised to act may supply information on behalf of their clients. The clients shall nevertheless remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+
+Article 92
+
+Power to conduct evaluations
+
+1.   The AI Office, after consulting the Board, may conduct evaluations of the general-purpose AI model concerned:
+
+(a)
+
+to assess compliance of the provider with obligations under this Regulation, where the information gathered pursuant to Article 91 is insufficient; or
+
+(b)
+
+to investigate systemic risks at Union level of general-purpose AI models with systemic risk, in particular following a qualified alert from the scientific panel in accordance with Article 90(1), point (a).
+
+2.   The Commission may decide to appoint independent experts to carry out evaluations on its behalf, including from the scientific panel established pursuant to Article 68. Independent experts appointed for this task shall meet the criteria outlined in Article 68(2).
+
+3.   For the purposes of paragraph 1, the Commission may request access to the general-purpose AI model concerned through APIs or further appropriate technical means and tools, including source code.
+
+4.   The request for access shall state the legal basis, the purpose and reasons of the request and set the period within which the access is to be provided, and the fines provided for in Article 101 for failure to provide access.
+
+5.   The providers of the general-purpose AI model concerned or its representative shall supply the information requested. In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall provide the access requested on behalf of the provider of the general-purpose AI model concerned.
+
+6.   The Commission shall adopt implementing acts setting out the detailed arrangements and the conditions for the evaluations, including the detailed arrangements for involving independent experts, and the procedure for the selection thereof. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+
+7.   Prior to requesting access to the general-purpose AI model concerned, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model to gather more information on the internal testing of the model, internal safeguards for preventing systemic risks, and other internal procedures and measures the provider has taken to mitigate such risks.
+
+Article 93
+
+Power to request measures
+
+1.   Where necessary and appropriate, the Commission may request providers to:
+
+(a)
+
+take appropriate measures to comply with the obligations set out in Articles 53 and 54;
+
+(b)
+
+implement mitigation measures, where the evaluation carried out in accordance with Article 92 has given rise to serious and substantiated concern of a systemic risk at Union level;
+
+(c)
+
+restrict the making available on the market, withdraw or recall the model.
+
+2.   Before a measure is requested, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model.
+
+3.   If, during the structured dialogue referred to in paragraph 2, the provider of the general-purpose AI model with systemic risk offers commitments to implement mitigation measures to address a systemic risk at Union level, the Commission may, by decision, make those commitments binding and declare that there are no further grounds for action.
+
+Article 94
+
+Procedural rights of economic operators of the general-purpose AI model
+
+Article 18 of Regulation (EU) 2019/1020 shall apply mutatis mutandis to the providers of the general-purpose AI model, without prejudice to more specific procedural rights provided for in this Regulation.

@@ -1,0 +1,183 @@
+Article 10
+
+Data and data governance
+
+1.   High-risk AI systems which make use of techniques involving the training of AI models with data shall be developed on the basis of training, validation and testing data sets that meet the quality criteria referred to in paragraphs 2 to 5 whenever such data sets are used.
+
+2.   Training, validation and testing data sets shall be subject to data governance and management practices appropriate for the intended purpose of the high-risk AI system. Those practices shall concern in particular:
+
+(a)
+
+the relevant design choices;
+
+(b)
+
+data collection processes and the origin of data, and in the case of personal data, the original purpose of the data collection;
+
+(c)
+
+relevant data-preparation processing operations, such as annotation, labelling, cleaning, updating, enrichment and aggregation;
+
+(d)
+
+the formulation of assumptions, in particular with respect to the information that the data are supposed to measure and represent;
+
+(e)
+
+an assessment of the availability, quantity and suitability of the data sets that are needed;
+
+(f)
+
+examination in view of possible biases that are likely to affect the health and safety of persons, have a negative impact on fundamental rights or lead to discrimination prohibited under Union law, especially where data outputs influence inputs for future operations;
+
+(g)
+
+appropriate measures to detect, prevent and mitigate possible biases identified according to point (f);
+
+(h)
+
+the identification of relevant data gaps or shortcomings that prevent compliance with this Regulation, and how those gaps and shortcomings can be addressed.
+
+3.   Training, validation and testing data sets shall be relevant, sufficiently representative, and to the best extent possible, free of errors and complete in view of the intended purpose. They shall have the appropriate statistical properties, including, where applicable, as regards the persons or groups of persons in relation to whom the high-risk AI system is intended to be used. Those characteristics of the data sets may be met at the level of individual data sets or at the level of a combination thereof.
+
+4.   Data sets shall take into account, to the extent required by the intended purpose, the characteristics or elements that are particular to the specific geographical, contextual, behavioural or functional setting within which the high-risk AI system is intended to be used.
+
+5.   To the extent that it is strictly necessary for the purpose of ensuring bias detection and correction in relation to the high-risk AI systems in accordance with paragraph (2), points (f) and (g) of this Article, the providers of such systems may exceptionally process special categories of personal data, subject to appropriate safeguards for the fundamental rights and freedoms of natural persons. In addition to the provisions set out in Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, all the following conditions must be met in order for such processing to occur:
+
+(a)
+
+the bias detection and correction cannot be effectively fulfilled by processing other data, including synthetic or anonymised data;
+
+(b)
+
+the special categories of personal data are subject to technical limitations on the re-use of the personal data, and state-of-the-art security and privacy-preserving measures, including pseudonymisation;
+
+(c)
+
+the special categories of personal data are subject to measures to ensure that the personal data processed are secured, protected, subject to suitable safeguards, including strict controls and documentation of the access, to avoid misuse and ensure that only authorised persons have access to those personal data with appropriate confidentiality obligations;
+
+(d)
+
+the special categories of personal data are not to be transmitted, transferred or otherwise accessed by other parties;
+
+(e)
+
+the special categories of personal data are deleted once the bias has been corrected or the personal data has reached the end of its retention period, whichever comes first;
+
+(f)
+
+the records of processing activities pursuant to Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680 include the reasons why the processing of special categories of personal data was strictly necessary to detect and correct biases, and why that objective could not be achieved by processing other data.
+
+6.   For the development of high-risk AI systems not using techniques involving the training of AI models, paragraphs 2 to 5 apply only to the testing data sets.
+
+Article 11
+
+Technical documentation
+
+1.   The technical documentation of a high-risk AI system shall be drawn up before that system is placed on the market or put into service and shall be kept up-to date.
+
+The technical documentation shall be drawn up in such a way as to demonstrate that the high-risk AI system complies with the requirements set out in this Section and to provide national competent authorities and notified bodies with the necessary information in a clear and comprehensive form to assess the compliance of the AI system with those requirements. It shall contain, at a minimum, the elements set out in Annex IV. SMEs, including start-ups, may provide the elements of the technical documentation specified in Annex IV in a simplified manner. To that end, the Commission shall establish a simplified technical documentation form targeted at the needs of small and microenterprises. Where an SME, including a start-up, opts to provide the information required in Annex IV in a simplified manner, it shall use the form referred to in this paragraph. Notified bodies shall accept the form for the purposes of the conformity assessment.
+
+2.   Where a high-risk AI system related to a product covered by the Union harmonisation legislation listed in Section A of Annex I is placed on the market or put into service, a single set of technical documentation shall be drawn up containing all the information set out in paragraph 1, as well as the information required under those legal acts.
+
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex IV, where necessary, to ensure that, in light of technical progress, the technical documentation provides all the information necessary to assess the compliance of the system with the requirements set out in this Section.
+
+Article 12
+
+Record-keeping
+
+1.   High-risk AI systems shall technically allow for the automatic recording of events (logs) over the lifetime of the system.
+
+2.   In order to ensure a level of traceability of the functioning of a high-risk AI system that is appropriate to the intended purpose of the system, logging capabilities shall enable the recording of events relevant for:
+
+(a)
+
+identifying situations that may result in the high-risk AI system presenting a risk within the meaning of Article 79(1) or in a substantial modification;
+
+(b)
+
+facilitating the post-market monitoring referred to in Article 72; and
+
+(c)
+
+monitoring the operation of high-risk AI systems referred to in Article 26(5).
+
+3.   For high-risk AI systems referred to in point 1 (a), of Annex III, the logging capabilities shall provide, at a minimum:
+
+(a)
+
+recording of the period of each use of the system (start date and time and end date and time of each use);
+
+(b)
+
+the reference database against which input data has been checked by the system;
+
+(c)
+
+the input data for which the search has led to a match;
+
+(d)
+
+the identification of the natural persons involved in the verification of the results, as referred to in Article 14(5).
+
+Article 13
+
+Transparency and provision of information to deployers
+
+1.   High-risk AI systems shall be designed and developed in such a way as to ensure that their operation is sufficiently transparent to enable deployers to interpret a system’s output and use it appropriately. An appropriate type and degree of transparency shall be ensured with a view to achieving compliance with the relevant obligations of the provider and deployer set out in Section 3.
+
+2.   High-risk AI systems shall be accompanied by instructions for use in an appropriate digital format or otherwise that include concise, complete, correct and clear information that is relevant, accessible and comprehensible to deployers.
+
+3.   The instructions for use shall contain at least the following information:
+
+(a)
+
+the identity and the contact details of the provider and, where applicable, of its authorised representative;
+
+(b)
+
+the characteristics, capabilities and limitations of performance of the high-risk AI system, including:
+
+(i)
+
+its intended purpose;
+
+(ii)
+
+the level of accuracy, including its metrics, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity;
+
+(iii)
+
+any known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety or fundamental rights referred to in Article 9(2);
+
+(iv)
+
+where applicable, the technical capabilities and characteristics of the high-risk AI system to provide information that is relevant to explain its output;
+
+(v)
+
+when appropriate, its performance regarding specific persons or groups of persons on which the system is intended to be used;
+
+(vi)
+
+when appropriate, specifications for the input data, or any other relevant information in terms of the training, validation and testing data sets used, taking into account the intended purpose of the high-risk AI system;
+
+(vii)
+
+where applicable, information to enable deployers to interpret the output of the high-risk AI system and use it appropriately;
+
+(c)
+
+the changes to the high-risk AI system and its performance which have been pre-determined by the provider at the moment of the initial conformity assessment, if any;
+
+(d)
+
+the human oversight measures referred to in Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of the high-risk AI systems by the deployers;
+
+(e)
+
+the computational and hardware resources needed, the expected lifetime of the high-risk AI system and any necessary maintenance and care measures, including their frequency, to ensure the proper functioning of that AI system, including as regards software updates;
+
+(f)
+
+where relevant, a description of the mechanisms included within the high-risk AI system that allows deployers to properly collect, store and interpret the logs in accordance with Article 12.
