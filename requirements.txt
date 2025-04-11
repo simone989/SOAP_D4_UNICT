@@ -1,0 +1,10 @@
+transformers
+torch
+ollama
+PyMuPDF
+spacy
+scikit-learn
+openai
+python-dotenv
+matplotlib
+nltk
